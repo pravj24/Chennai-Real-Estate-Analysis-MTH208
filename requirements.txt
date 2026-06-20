@@ -1,0 +1,16 @@
+rvest
+dplyr
+stringr
+httr
+jsonlite
+tidyverse
+leaflet
+sf
+shiny
+shinydashboard
+shinyWidgets
+htmltools
+geosphere
+dbscan
+ggrepel
+tidyr
